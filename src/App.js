@@ -7,7 +7,7 @@ function App() {
   const items = [
     // my images are in images folder in public folder.
     // public can be directly accessed via root path!
-    { image: '../images/1.jpg', altText: 'Image 1', overlayText: 'Crown Dreams' },
+    { image: 'images/1.jpg', altText: 'Image 1', overlayText: 'Crown Dreams' },
     { image: 'images/2.jpg', altText: 'Image 2' },
     { image: 'images/3.jpg', altText: 'Image 3', overlayText: 'San Jose' },
     { image: 'images/4.jpg', altText: 'Image 4', overlayText: 'Creative Writing Class' },
