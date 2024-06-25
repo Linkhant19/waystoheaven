@@ -1,15 +1,24 @@
 {
   "files": {
-    "main.css": "/waystoheaven/static/css/main.f522169c.css",
-    "main.js": "/waystoheaven/static/js/main.e08a2052.js",
+    "main.css": "/waystoheaven/static/css/main.ca7aa58a.css",
+    "main.js": "/waystoheaven/static/js/main.4ba1bb9f.js",
     "static/js/453.aebd7dde.chunk.js": "/waystoheaven/static/js/453.aebd7dde.chunk.js",
+    "static/media/3.jpg": "/waystoheaven/static/media/3.4fcdd893dc48f0c74555.jpg",
+    "static/media/5.jpg": "/waystoheaven/static/media/5.9b33c1aded44a957c99d.jpg",
+    "static/media/7.jpg": "/waystoheaven/static/media/7.b7ff2b6715ec1601a6e2.jpg",
+    "static/media/6.jpg": "/waystoheaven/static/media/6.f0029bcac837f10bc38c.jpg",
+    "static/media/1.jpg": "/waystoheaven/static/media/1.d1b0045a561990f5f506.jpg",
+    "static/media/2.jpg": "/waystoheaven/static/media/2.0788728addcaf8aac3bf.jpg",
+    "static/media/9.jpg": "/waystoheaven/static/media/9.02a86f27d039d0f697b1.jpg",
+    "static/media/4.jpg": "/waystoheaven/static/media/4.87ee7c2766af7a48c23d.jpg",
+    "static/media/8.jpg": "/waystoheaven/static/media/8.39ce15416b2a518c98c9.jpg",
     "index.html": "/waystoheaven/index.html",
-    "main.f522169c.css.map": "/waystoheaven/static/css/main.f522169c.css.map",
-    "main.e08a2052.js.map": "/waystoheaven/static/js/main.e08a2052.js.map",
+    "main.ca7aa58a.css.map": "/waystoheaven/static/css/main.ca7aa58a.css.map",
+    "main.4ba1bb9f.js.map": "/waystoheaven/static/js/main.4ba1bb9f.js.map",
     "453.aebd7dde.chunk.js.map": "/waystoheaven/static/js/453.aebd7dde.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.f522169c.css",
-    "static/js/main.e08a2052.js"
+    "static/css/main.ca7aa58a.css",
+    "static/js/main.4ba1bb9f.js"
   ]
 }
