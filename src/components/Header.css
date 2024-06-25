@@ -20,6 +20,7 @@ header {
     margin: 0;
     font-size: 5vw;
     font-weight: bold;
+    color: silver;
 }
 
 /* this one is the title */
@@ -35,6 +36,7 @@ header {
     margin: 0;
     /* margin-left: 3vw; */
     font-size: 1vw;
+    color: silver;
 }
 
 /* this one is table of contents */
@@ -55,4 +57,5 @@ header {
     margin: 0;
     font-size: 1vw;
     text-align: right;
+    color: silver;
 }
