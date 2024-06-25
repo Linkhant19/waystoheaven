@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/waystoheaven/static/css/main.b570388f.css",
+    "main.js": "/waystoheaven/static/js/main.bcf7bddc.js",
+    "static/js/453.aebd7dde.chunk.js": "/waystoheaven/static/js/453.aebd7dde.chunk.js",
+    "index.html": "/waystoheaven/index.html",
+    "main.b570388f.css.map": "/waystoheaven/static/css/main.b570388f.css.map",
+    "main.bcf7bddc.js.map": "/waystoheaven/static/js/main.bcf7bddc.js.map",
+    "453.aebd7dde.chunk.js.map": "/waystoheaven/static/js/453.aebd7dde.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b570388f.css",
+    "static/js/main.bcf7bddc.js"
+  ]
+}
