@@ -1,0 +1,58 @@
+/* I used vw here to make it adjust with window size */
+
+header {
+    /* background-color: #222; */
+    /* I don't think I like the background color. Not sure. */
+    margin-left: 7vw;
+    margin-right: 7vw;
+    margin-bottom: -1.8vw;
+    padding: 2.1vw;
+}
+
+.header-container {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+/* this one is for the SWH 'logo' on the top */
+.logo {
+    margin: 0;
+    font-size: 5vw;
+    font-weight: bold;
+}
+
+/* this one is the title */
+.header-title h1 {
+    margin: 0;
+    /* margin-left: -7.1vw; */
+    font-size: 1.9vw;
+    font-weight: bold;
+}
+
+/* this one will say 'poems collection' or 'collection' */
+.header-title p {
+    margin: 0;
+    /* margin-left: 3vw; */
+    font-size: 1vw;
+}
+
+/* this one is table of contents */
+.header-tableofcontents p {
+    margin: 0;
+    font-size: 1vw;
+    text-align: left;
+}
+
+/* might insert one for my name. */
+.header-name h1 {
+    margin: 0;
+    font-size: 1.9vw;
+    text-align: right;
+}
+
+.header-name p {
+    margin: 0;
+    font-size: 1vw;
+    text-align: right;
+}

@@ -1,0 +1,36 @@
+/* I used vw here to make it adjust with window size */
+
+.grid-container {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    grid-template-rows: repeat(3, 1fr);
+    gap: 1.7vw;
+    margin-left: 7vw;
+    margin-right: 7vw;
+    padding: 2.1vw;
+}
+
+.grid-item {
+    position: relative;
+    background-color: #444;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.grid-item img {
+    width: 100%;
+    height: auto;
+    display: block;
+}
+
+/* text overlay */
+.overlay {
+    position: absolute;
+    bottom: 2vw;
+    left: 1vw;
+    background-color: rgba(0, 0, 0, 0.5);
+    padding: .5vw;
+    border-radius: 5px;
+    font-size: 1.3vw;
+}
